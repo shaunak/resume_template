@@ -5,7 +5,7 @@ A **one-page** resume template in **XeTeX**.
 
 ## Motivation
 
-I used to use [Deedy's Resume](https://github.com/deedy/Deedy-Resume), till it started to feel dated. A lot of ATS's didn't scan it very well because of its dual-column format, and I felt that the lettering was dated.
+I used to use [Deedy's Resume](https://github.com/deedy/Deedy-Resume), till it started to feel dated. A lot of ATS's didn't scan it very well because of its dual-column format, and I felt that the lettering wasn't visually appealing.
 
 Like the original, this template attempts to **look clean**,  be a **single page**, and allow useful **LaTeX templating**. It also focuses more on **readability** 
 
